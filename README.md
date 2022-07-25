@@ -17,4 +17,6 @@
   
   <div>
     <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/gabriellycgandrade/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    ![Snake animation](https://github.com/gabsandrade/gabsandrade/blob/output/github-contribution-grid-snake.svg)
+    
   </div>
