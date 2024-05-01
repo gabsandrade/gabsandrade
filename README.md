@@ -1,6 +1,6 @@
 ### Olá, sou a Gabrielly👋
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas na PUC.
-- 🌱 Atualmente estou estudando Html, Css e Javascript.
+- 🌱 Atualmente estudo desenvolvimento Backend e Frontent com C# .NET.
 <div align="center">
   <a href="https://github.com/gabsandrade">
    <img width="42%" src="https://github-readme-stats.vercel.app/api?username=gabsandrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
