@@ -1,8 +1,20 @@
-![banner)](assets/banner.png)<br>
+```js
+import Developer from "gabsandrade";
 
-<img src="https://github-readme-stats.vercel.app/api?username=NyleCoelho&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" align="right">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
+class AboutMe extends Developer {
+  name = "Gabrielly Andrade";
+  area = "Frontend Developer";
+  work = "Domo Inovação";
+  local = "Belo Horizonte, Brazil";
+}
 
-[![card](https://github-readme-stats.vercel.app/api?username=GabsAndrade&theme=Dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+class Skills extends Desenvolvedor {
+  languages = ["Javascript, C#"];
+  librarys = ["React, .NET"];
+  frameworks = ["ASP.NET Core"];
+}
+```
+[![card](https://github-readme-stats.vercel.app/api?username=GabsAndrade&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsandrade&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github.com/NyleCoelho/NyleCoelho/blob/output/github-contribution-grid-snake-dark.svg" width="25000">
