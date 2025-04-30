@@ -8,7 +8,7 @@ class AboutMe extends Developer {
   local = "Belo Horizonte, Brazil";
 }
 
-class Skills extends Desenvolvedor {
+class Skills extends Developer {
   languages = ["Javascript, C#"];
   librarys = ["React, .NET"];
   frameworks = ["ASP.NET Core"];
