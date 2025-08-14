@@ -3,8 +3,7 @@ import Developer from "gabsandrade";
 
 class AboutMe extends Developer {
   name = "Gabrielly Andrade";
-  area = "Frontend Developer";
-  work = "Domo Inovação";
+  area = "Software Developer";
   local = "Belo Horizonte, Brazil";
 }
 
