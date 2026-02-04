@@ -3,12 +3,13 @@ import Developer from "gabsandrade";
 
 class AboutMe extends Developer {
   name = "Gabrielly Andrade";
-  area = "Software Developer";
+  area = "Mainframe Software Developer Analyst";
   local = "Belo Horizonte, Brazil";
 }
 
 class Skills extends Developer {
-  languages = ["Javascript, C#"];
+  languages = ["Cobol, Natural, Javascript, C#"];
+  databases = ["SQL, DB2"];
   librarys = ["React, .NET"];
   frameworks = ["ASP.NET Core"];
 }
